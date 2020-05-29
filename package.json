@@ -4,6 +4,7 @@
   "author": "NLRX <414961362@qq.com>",
   "license": "MIT",
   "private": true,
+  "homepage": "https://archerli.github.io/react-antd-admin-template/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
